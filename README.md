@@ -1,2 +1,2 @@
 # projetogit2
-Clonagem de projetos
+Clonagem de projeto
